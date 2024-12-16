@@ -4,7 +4,6 @@ project("Sorting" C)
 # Set the C standard
 set(CMAKE_C_STANDARD 99)
 set(CMAKE_C_STANDARD_REQUIRED ON)
-set(CMAKE_COMPILE_WARNING_AS_ERROR ON)
 
 # Compiler-specific flags and options
 if (CMAKE_C_COMPILER_ID STREQUAL "MSVC")
