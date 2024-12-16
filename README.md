@@ -1,4 +1,5 @@
 # Sorting
+> Part of a University project for the class _Algorithms and Data Structures_ (**[ASD](https://laurea.informatica.unito.it/do/corsi.pl/Show?_id=iw3r)**, *Algoritmi e Strutture Dati*, UNITO Informatica).
 
 ## Overview
 
@@ -113,10 +114,6 @@ You can disable certain algorithms by recompiling the source defining:
 + `DISABLE_MERGESORT`: disable merge sort unit testing.
 + `DISABLE_BININSSORT`: disable binary insertion sort unit testing.
 + `DISABLE_MERGEBININSSORT`: disable merge binary insertion sort unit testing.
-
-## Sorting Algorithms
-
-Here’s the completion for the sorting algorithm descriptions:
 
 ## Sorting Algorithms
 
